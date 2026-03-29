@@ -1,6 +1,6 @@
-# gradient-desc
+# Gradient Descent Optimizer
 
-Gradient descent optimizer with visualization
+Gradient Descent Optimizer — zero-dependency, single-file Python CLI.
 
 ## Usage
 
@@ -8,7 +8,6 @@ Gradient descent optimizer with visualization
 python3 gradient_desc.py --help
 ```
 
-## Features
+## License
 
-- Zero dependencies (Python 3.8+)
-- Single file implementation
+MIT

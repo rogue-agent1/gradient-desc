@@ -1,13 +1,3 @@
-# Gradient Descent Optimizer
-
-Gradient Descent Optimizer — zero-dependency, single-file Python CLI.
-
-## Usage
-
-```bash
-python3 gradient_desc.py --help
-```
-
-## License
-
-MIT
+# gradient_desc
+Gradient descent — vanilla GD, Adam optimizer, numerical gradients.
+Single-file Python, zero dependencies.
